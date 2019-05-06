@@ -48,14 +48,15 @@
             this.btnconsultar = new System.Windows.Forms.Button();
             this.txtpesquisa = new System.Windows.Forms.TextBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.cbcargo = new System.Windows.Forms.ComboBox();
+            this.txtdatanascimento = new System.Windows.Forms.DateTimePicker();
+            this.label10 = new System.Windows.Forms.Label();
             this.txtcodigo = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.txtdatanascimento = new System.Windows.Forms.DateTimePicker();
-            this.cbcargo = new System.Windows.Forms.ComboBox();
-            this.label11 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dg_tabelacliente)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -262,6 +263,41 @@
             this.groupBox2.Text = "Dados do Cliente";
             this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
             // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(273, 26);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(56, 20);
+            this.label11.TabIndex = 25;
+            this.label11.Text = "Cargo:";
+            // 
+            // cbcargo
+            // 
+            this.cbcargo.FormattingEnabled = true;
+            this.cbcargo.Location = new System.Drawing.Point(330, 18);
+            this.cbcargo.Name = "cbcargo";
+            this.cbcargo.Size = new System.Drawing.Size(121, 28);
+            this.cbcargo.TabIndex = 24;
+            // 
+            // txtdatanascimento
+            // 
+            this.txtdatanascimento.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.txtdatanascimento.Location = new System.Drawing.Point(418, 121);
+            this.txtdatanascimento.MinDate = new System.DateTime(1975, 4, 29, 0, 0, 0, 0);
+            this.txtdatanascimento.Name = "txtdatanascimento";
+            this.txtdatanascimento.Size = new System.Drawing.Size(172, 26);
+            this.txtdatanascimento.TabIndex = 23;
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(250, 127);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(150, 20);
+            this.label10.TabIndex = 22;
+            this.label10.Text = "Data de Nacimento:";
+            // 
             // txtcodigo
             // 
             this.txtcodigo.Location = new System.Drawing.Point(92, 41);
@@ -299,46 +335,21 @@
             this.label9.TabIndex = 18;
             this.label9.Text = "Sistema CRUD com Procedures";
             // 
-            // label10
+            // button1
             // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(250, 127);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(150, 20);
-            this.label10.TabIndex = 22;
-            this.label10.Text = "Data de Nacimento:";
-            // 
-            // txtdatanascimento
-            // 
-            this.txtdatanascimento.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.txtdatanascimento.Location = new System.Drawing.Point(418, 121);
-            this.txtdatanascimento.MinDate = new System.DateTime(1975, 4, 29, 0, 0, 0, 0);
-            this.txtdatanascimento.Name = "txtdatanascimento";
-            this.txtdatanascimento.Size = new System.Drawing.Size(172, 26);
-            this.txtdatanascimento.TabIndex = 23;
-            // 
-            // cbcargo
-            // 
-            this.cbcargo.FormattingEnabled = true;
-            this.cbcargo.Location = new System.Drawing.Point(330, 18);
-            this.cbcargo.Name = "cbcargo";
-            this.cbcargo.Size = new System.Drawing.Size(121, 28);
-            this.cbcargo.TabIndex = 24;
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(273, 26);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(56, 20);
-            this.label11.TabIndex = 25;
-            this.label11.Text = "Cargo:";
+            this.button1.Location = new System.Drawing.Point(530, 31);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 19;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(652, 653);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -389,6 +400,7 @@
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.ComboBox cbcargo;
+        private System.Windows.Forms.Button button1;
     }
 }
 
