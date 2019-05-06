@@ -1,0 +1,48 @@
+F:\Etec\3° Ano\1º Semestre\DS\conexão ao banco\Projeto_ds\Projeto_ds\bin\Debug\Projeto_ds.exe.config
+C:\Users\Caio Malheiros\Documents\Visual Studio 2015\Projects\Projeto_ds\Projeto_ds\bin\Debug\Projeto_ds.exe.config
+C:\Users\Caio Malheiros\Documents\Visual Studio 2015\Projects\Projeto_ds\Projeto_ds\bin\Debug\Projeto_ds.exe
+C:\Users\Caio Malheiros\Documents\Visual Studio 2015\Projects\Projeto_ds\Projeto_ds\bin\Debug\Projeto_ds.pdb
+C:\Users\Caio Malheiros\Documents\Visual Studio 2015\Projects\Projeto_ds\Projeto_ds\bin\Debug\MySql.Data.dll
+C:\Users\Caio Malheiros\Documents\Visual Studio 2015\Projects\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.csprojResolveAssemblyReference.cache
+C:\Users\Caio Malheiros\Documents\Visual Studio 2015\Projects\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.Form1.resources
+C:\Users\Caio Malheiros\Documents\Visual Studio 2015\Projects\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.Properties.Resources.resources
+C:\Users\Caio Malheiros\Documents\Visual Studio 2015\Projects\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.csproj.GenerateResource.Cache
+C:\Users\Caio Malheiros\Documents\Visual Studio 2015\Projects\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.exe
+C:\Users\Caio Malheiros\Documents\Visual Studio 2015\Projects\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.pdb
+C:\Users\Técnico\Desktop\Projeto_ds\Projeto_ds\bin\Debug\Projeto_ds.exe.config
+C:\Users\Técnico\Desktop\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.exe
+C:\Users\Técnico\Desktop\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.pdb
+C:\Users\Técnico\Desktop\Projeto_ds\Projeto_ds\bin\Debug\Projeto_ds.exe
+C:\Users\Técnico\Desktop\Projeto_ds\Projeto_ds\bin\Debug\Projeto_ds.pdb
+C:\Users\Técnico\Desktop\Projeto_ds\Projeto_ds\bin\Debug\MySql.Data.dll
+C:\Users\Técnico\Desktop\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.csprojResolveAssemblyReference.cache
+C:\Users\Técnico\Desktop\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.Form1.resources
+C:\Users\Técnico\Desktop\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.Properties.Resources.resources
+C:\Users\Técnico\Desktop\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.csproj.GenerateResource.Cache
+G:\BP\Material ETEC\Material C#\Conexão com banco\PROJETO DS BANCO\Projeto_ds\Projeto_ds\bin\Debug\Projeto_ds.exe.config
+G:\BP\Material ETEC\Material C#\Conexão com banco\PROJETO DS BANCO\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.exe
+G:\BP\Material ETEC\Material C#\Conexão com banco\PROJETO DS BANCO\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.pdb
+G:\BP\Material ETEC\Material C#\Conexão com banco\PROJETO DS BANCO\Projeto_ds\Projeto_ds\bin\Debug\Projeto_ds.exe
+G:\BP\Material ETEC\Material C#\Conexão com banco\PROJETO DS BANCO\Projeto_ds\Projeto_ds\bin\Debug\Projeto_ds.pdb
+G:\BP\Material ETEC\Material C#\Conexão com banco\PROJETO DS BANCO\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.csprojResolveAssemblyReference.cache
+G:\BP\Material ETEC\Material C#\Conexão com banco\PROJETO DS BANCO\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.Form1.resources
+G:\BP\Material ETEC\Material C#\Conexão com banco\PROJETO DS BANCO\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.Properties.Resources.resources
+G:\BP\Material ETEC\Material C#\Conexão com banco\PROJETO DS BANCO\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.csproj.GenerateResource.Cache
+E:\BP\Material ETEC\Material C#\Conexão com banco\PROJETO DS BANCO\Projeto_ds\Projeto_ds\bin\Debug\Projeto_ds.exe.config
+E:\BP\Material ETEC\Material C#\Conexão com banco\PROJETO DS BANCO\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.exe
+E:\BP\Material ETEC\Material C#\Conexão com banco\PROJETO DS BANCO\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.pdb
+F:\BP\Material ETEC\Material C#\Conexão com banco\PROJETO DS BANCO\Projeto_ds\Projeto_ds\bin\Debug\Projeto_ds.exe.config
+F:\BP\Material ETEC\Material C#\Conexão com banco\PROJETO DS BANCO\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.exe
+F:\BP\Material ETEC\Material C#\Conexão com banco\PROJETO DS BANCO\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.pdb
+C:\Users\Técnico\Desktop\PROJETO DS BANCO\Projeto_ds\Projeto_ds\bin\Debug\Projeto_ds.exe.config
+C:\Users\Técnico\Desktop\PROJETO DS BANCO\Projeto_ds\Projeto_ds\bin\Debug\Projeto_ds.exe
+C:\Users\Técnico\Desktop\PROJETO DS BANCO\Projeto_ds\Projeto_ds\bin\Debug\Projeto_ds.pdb
+C:\Users\Técnico\Desktop\PROJETO DS BANCO\Projeto_ds\Projeto_ds\bin\Debug\MySql.Data.dll
+C:\Users\Técnico\Desktop\PROJETO DS BANCO\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.Form1.resources
+C:\Users\Técnico\Desktop\PROJETO DS BANCO\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.Properties.Resources.resources
+C:\Users\Técnico\Desktop\PROJETO DS BANCO\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.csproj.GenerateResource.Cache
+C:\Users\Técnico\Desktop\PROJETO DS BANCO\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.exe
+C:\Users\Técnico\Desktop\PROJETO DS BANCO\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.pdb
+C:\Users\Técnico\Downloads\PROJETO DS BANCO\Projeto_ds\Projeto_ds\bin\Debug\Projeto_ds.exe.config
+C:\Users\Técnico\Downloads\PROJETO DS BANCO\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.exe
+C:\Users\Técnico\Downloads\PROJETO DS BANCO\Projeto_ds\Projeto_ds\obj\Debug\Projeto_ds.pdb
